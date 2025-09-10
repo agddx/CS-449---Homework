@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtictactoe_lib.a CMakeFiles/tictactoe_lib.dir/src/Player.cpp.o CMakeFiles/tictactoe_lib.dir/src/Board.cpp.o CMakeFiles/tictactoe_lib.dir/src/TicTacToe.cpp.o
+/usr/bin/ranlib libtictactoe_lib.a
